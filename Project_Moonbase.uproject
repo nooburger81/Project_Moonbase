@@ -12,10 +12,6 @@
 			]
 		},
 		{
-			"Name": "Water",
-			"Enabled": true
-		},
-		{
 			"Name": "ActorPalette",
 			"Enabled": true
 		}
